@@ -1,3 +1,6 @@
 # palacebabystore
 
 DONE WITH SCHEMAS// NOT DONE YET
+
+DONE WITH AUTH ON BACKEND
+
