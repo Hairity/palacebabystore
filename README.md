@@ -26,3 +26,7 @@ As an admin you can also delete users, delete products, delete reviews and every
 
 I used postman and I am very familiar with it by now. I know how servers work with databases and I have experience with SQL and mongoDB was not that hard. 
 
+Finished and deployed with Heroku: https://palacebabyapp.herokuapp.com/
+
+//Feel free to register user, place order and use PayPal SandBox API to pay for order.
+
