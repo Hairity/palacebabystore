@@ -6,6 +6,7 @@ import { Navbar, Nav, Container, NavDropdown } from 'react-bootstrap'
 import SearchBox from './SearchBox'
 import { logout } from '../actions/userActions'
 
+
 const Header = () => {
   const dispatch = useDispatch()
 
@@ -18,7 +19,7 @@ const Header = () => {
 
   return (
     <header>
-      <Navbar style={{color: 'red'}} bg='info' variant='dark' expand='lg' collapseOnSelect>
+      <Navbar bg='dark' variant='' expand='lg' collapseOnSelect>
         <Container>
           <LinkContainer to='/'>
             <Navbar.Brand>PalaceBaby</Navbar.Brand>

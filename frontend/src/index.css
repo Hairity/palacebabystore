@@ -1,5 +1,5 @@
 * {
-  color: rgba(3, 72, 82, 0.808);
+  color: #aaa;
 }
 
 main {
@@ -24,6 +24,11 @@ h2 {
   margin: 0.1rem;
 }
 
+img {
+  max-width: 250px;
+  max-height: 250px;
+}
+
 /* carousel */
 .carousel-item-next,
 .carousel-item-prev,
@@ -36,7 +41,7 @@ h2 {
 }
 
 .carousel-caption h2 {
-  color: #fff;
+  color: #aaa;
 }
 
 .carousel img {
